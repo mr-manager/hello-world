@@ -1,2 +1,3 @@
 # hello-world
-first repository of many to come
+
+There's always money in the banana stand. 
